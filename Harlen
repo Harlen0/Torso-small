@@ -1,4 +1,4 @@
-_G.TorsoSize = Vector3.new(5, 5, 5) -- Ajuste esse valor conforme necessário
+_G.TorsoSize = Vector3.new(4, 4, 4) -- Ajuste esse valor conforme necessário
 _G.HumanoidRootPartSize = Vector3.new(5, 5, 5) -- Ajuste esse valor conforme necessário
 _G.Disabled = false
 
